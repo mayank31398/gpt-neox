@@ -150,3 +150,7 @@ test_logs/
 logs/
 tensorboard/
 src/
+
+vocab/
+
+data_raw/
